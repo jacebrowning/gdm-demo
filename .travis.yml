@@ -5,10 +5,9 @@ python:
 install:
 - pip install coveralls scrutinizer-ocular
 before_script:
+- git fetch --unshallow
 - make env
 - make depends-ci
-- git fetch origin example-branch
-- git fetch origin example-branch-2
 script:
 - make ci
 after_success:
