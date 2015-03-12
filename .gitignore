@@ -1,4 +1,5 @@
 gdm/test/files/dependencies
+gdm_sources
 
 # Temporary Python files
 *.pyc
