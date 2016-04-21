@@ -1,9 +1,8 @@
 sources:
 - repo: https://github.com/jacebrowning/gdm-demo
-  dir: gdm_3
+  name: gdm_3
   rev: ddbe17ef173538d1fda29bd99a14bab3c5d86e78
   link: src/gdm_c
 - repo: https://github.com/jacebrowning/gdm-demo
-  dir: gdm_4
+  name: gdm_4
   rev: master
-  
