@@ -1,7 +1,7 @@
 sources:
 - repo: https://github.com/jacebrowning/gdm-demo
   name: gdm_3
-  rev: b6bed7e791a9f6ceadfda823a3d6b490d6b4bc0b
+  rev: b44a5a4a5faa338935e8eccaf288ad86986c553f
   link: src/gdm_c
 - repo: https://github.com/jacebrowning/gdm-demo
   name: gdm_4
