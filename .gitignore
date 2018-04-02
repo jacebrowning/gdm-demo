@@ -1,5 +1,6 @@
 gdm/test/files/dependencies
 gdm_sources
+gitman_sources
 
 # Temporary Python files
 *.pyc
